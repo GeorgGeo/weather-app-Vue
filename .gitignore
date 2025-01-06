@@ -10,13 +10,13 @@ lerna-debug.log*
 node_modules
 /package-lock.json
 /jsconfig.json
-/index.html
+#index.html
 /.eslintrc.cjs
 .DS_Store
 # dist
 Layout
 public
-src
+#src
 dist-ssr
 coverage
 *.local
