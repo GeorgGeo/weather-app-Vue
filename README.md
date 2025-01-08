@@ -3,7 +3,17 @@
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Technology stack
-
+> - Vue 3: Приложение написано на Vue 3 с использованием Composition API
+> - Компонентный подход: Приложение построено на основе компонентов, что обеспечивает модульность и удобство поддержки кода
+> - Работа с API: Для получения данных о погоде используется сторонний AP
+> - Препроцессоры SASS
+> - Webpack
+> - Работа с пакетными менеджерами (npm)
+> - JavaScript
+> - **Peculiar properties**
+>    - [x] Responsive Design
+>    - [x] Dynamic data update
+>    - [x] User-friendly interface
 
 ## Project Setup
 
